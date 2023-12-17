@@ -1,4 +1,4 @@
-#include "funcs.h"
+#include <stdio.h>
 
 void listStudents(){
     
